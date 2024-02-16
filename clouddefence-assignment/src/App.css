@@ -1,0 +1,11 @@
+
+.App-header {
+  background-color: #686a6e;
+}
+
+.container {
+  display: flex;
+  justify-content: center; /* Aligns horizontally */
+  align-items: center; /* Aligns vertically if the container has a specific height */
+  height: 80vh; /* Example height: makes the container full viewport height */
+}
